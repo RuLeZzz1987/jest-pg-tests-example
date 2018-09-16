@@ -1,0 +1,1 @@
+### Example of Postgres (postgres-node) testing via Jest
